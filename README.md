@@ -1,5 +1,8 @@
-# Diabetes-Feature-Engineering
+<p align="center">
+    <img src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/7104-diabetes-symptoms" alt="MasterHead"/>
+</p>
 
+# Diabetes-Feature-Engineering
 
 ## 1 Business Problem
 The goal is to develop a machine learning model that predicts the likelihood of individuals being diagnosed with diabetes based on specific features. Before model development, essential steps in data analysis and feature engineering will be conducted.
